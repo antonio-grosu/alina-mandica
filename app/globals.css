@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,400&family=Sarabun:wght@500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text {
+  font-family: "Roboto";
+}
+.italic {
+  font-style: italic;
+}
+.title {
+  font-family: "Sarabun";
+  font-weight: 500;
+}
+::-webkit-scrollbar {
+  display: none;
+}
