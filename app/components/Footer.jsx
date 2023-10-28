@@ -15,8 +15,8 @@ function Footer() {
           <p className="text ml-4 mt-1">Psiholog Alina-Loredana Măndică</p>
         </div>
         <p className="text mt-4 text-teal-950/50 italic font-bold">
-          "Implicarea în evenimentele trecute este înnoită cu scopul de a ține
-          incă vii resursele emoționale investite" (Albert Ellis).
+          &quotImplicarea în evenimentele trecute este înnoită cu scopul de a
+          ține incă vii resursele emoționale investite&quot (Albert Ellis).
         </p>
       </div>
       <div className=" flex flex-col md:items-center justify-start">
